@@ -12,7 +12,7 @@ npm install codemirror codemirror-mode-chapel --save
 1. Include `codemirror-mode-chapel` into your project.
 
     ```html
-    <!-- You can simply add elixir.js as a script tag: -->
+    <!-- You can simply add codemirror-mode-chapel/index.js as a script tag: -->
     <script src="js/codemirror.js"></script>
     <script src="js/codemirror-mode-chapel/index.js"></script>
     ```
@@ -26,7 +26,7 @@ npm install codemirror codemirror-mode-chapel --save
     import registerChapelMode from 'codemirror-mode-chapel'
     ```
 
-1. Set 'elixir' as the mode when creating the CodeMirror editor.
+1. Set 'text/chapel' as the mode when creating the CodeMirror editor.
 
     ```js
     CodeMirror.fromTextArea(document.getElementById('code'), { mode: 'text/chapel' })
