@@ -1,6 +1,6 @@
 {
   "name": "codemirror-mode-chapel",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A mode for Chapel Language",
   "main": "index.js",
   "repository": {
