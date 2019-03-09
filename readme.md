@@ -34,7 +34,7 @@ npm install codemirror codemirror-mode-chapel --save
 
 ## License
 
-ISC - See [LICENSE][licenseUrl]
+ISC
 
 &nbsp;
 
