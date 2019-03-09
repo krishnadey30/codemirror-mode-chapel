@@ -1,0 +1,19 @@
+{
+  "name": "codemirror-mode-chapel",
+  "version": "1.0.0",
+  "description": "A mode for Chapel Language",
+  "main": "index.js",
+  "repository": {
+    "url": "git@github.com:krishnadey30/codemirror-mode-chapel.git",
+    "type": "git"
+  },
+  "keywords": [
+    "chapel",
+    "codemirror"
+  ],
+  "author": "krishnadey30 <krishnakumardey.dey@gmail.com>",
+  "license": "ISC",
+  "peerDependencies": {
+    "codemirror": "^5.20.2"
+  }
+}
