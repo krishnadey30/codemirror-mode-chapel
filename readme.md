@@ -1,6 +1,7 @@
 # codemirror-mode-chapel
 > A CodeMirror mode for the Chapel language
 
+[![npm (scoped)](https://img.shields.io/badge/npm-v1.0.3-blue.svg)](https://www.npmjs.com/package/codemirror-mode-chapel))
 ## Installation
 
 ```console
